@@ -1,0 +1,18 @@
+.location {
+    margin-bottom: 100px;
+    display: grid;
+    align-items: center;
+    &__title {
+        margin-bottom: 40px;
+    }
+    &__address {
+        font-size: 17px;
+        margin-bottom: 27px;
+    }
+    &__name-restoran {
+        font-size: 20px;
+    }
+    &__btn {
+        margin: 0 auto;
+    }
+}

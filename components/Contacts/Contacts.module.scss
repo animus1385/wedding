@@ -1,0 +1,14 @@
+.contacts {
+    &__title {
+        margin-bottom: 30px;
+    }
+    &__names {
+        display: grid;
+        align-items: flex-start;
+    }
+    &__man,
+    &__woman {
+        margin-bottom: 39px;
+        text-align: left;
+    }
+}
