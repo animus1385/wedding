@@ -1,12 +1,12 @@
 <template>
-    <div class="main">
+    <main class="main">
         <Hero />
         <Info />
         <Location />
         <Dresscod />
         <Time />
         <Contacts />
-    </div>
+    </main>
 </template>
 
 <script setup></script>

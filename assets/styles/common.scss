@@ -14,7 +14,7 @@ a {
     text-decoration: none;
 }
 .container {
-    max-width: 341px;
+    max-width: 320px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -61,6 +61,7 @@ a {
 .main {
     position: relative;
     display: grid;
+    overflow: hidden;
     &::before {
         content: '';
     }
