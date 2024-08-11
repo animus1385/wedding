@@ -1,6 +1,6 @@
 <template>
     <section class="hero">
-        <picture class="hero__picture" data-aos="zoom-in" data-aos-duration="1000">
+        <picture class="hero__picture" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true">
             <img class="hero__img" src="/img/hero.png" alt="hero" />
         </picture>
         <div
@@ -10,7 +10,7 @@
             data-aos-duration="1000"
             data-aos-easing="ease-in-out"
             data-aos-mirror="true"
-            data-aos-once="false"
+            data-aos-once="true"
         >
             <div class="hero__content">
                 <h1 class="hero__title title-level-1">Свадебное приглашение</h1>
