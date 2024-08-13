@@ -38,7 +38,7 @@
                 <div class="info__date-midle">
                     <span class="info__date-week-day text-1" data-aos="fade-right" data-aos-once="true">СУББОТА</span>
                     <span class="info__date-date text-3" data-aos="fade" data-aos-delay="400" data-aos-once="true">07</span>
-                    <span class="info__date-time text-1" data-aos="fade-left" data-aos-once="true"> 15:00</span>
+                    <span class="info__date-time text-1" data-aos="fade-left" data-aos-once="true"> 18:00</span>
                 </div>
                 <div class="info__date-year text-3" data-aos="fade-up" data-aos-once="true">2024</div>
             </div>
